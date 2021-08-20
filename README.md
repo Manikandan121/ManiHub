@@ -1,0 +1,2 @@
+# ManiHub
+Initiating Mani Hub
